@@ -1,4 +1,4 @@
-#SlimeFactory Games' app privacy policy
+# SlimeFactory Games' app privacy policy
 
 
 ## About Game Center
