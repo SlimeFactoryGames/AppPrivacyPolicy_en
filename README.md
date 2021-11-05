@@ -17,7 +17,7 @@ https://policies.google.com/technologies/ads?hl=en
 Under Apple's Tracking Transparency Policy, users may refuse to use your device's advertising ID.
 
 
-## inquiry
+## Inquiry
 If you have any questions, please feel free to contact us. Personal information used for inquiries will be strictly managed and will not be provided to third parties. If the content of the inquiry is considered to be useful to other users, we may post it in the in-app Q & A in a form that does not identify the individual.
 
 Support email address: slimefactory.games@gmail.com
